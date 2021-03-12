@@ -5,11 +5,13 @@ source_metadata:
   title: སྦས་ཡུལ་འབྲས་མོ་ལྗོངས་ཀྱི་གནས་ཡིག་ཕན་ཡོན་བཅས་པ་ངོ་མཚར་གཏེར་མཛོད
   author: ''
   volumes:
-    2346ab546d1344b3a48c9ed5d0cda223:
+    99aa94fdaf12494bb55b90652a79213e:
       image_group_id: I1PD96715
-      title: ''
+      title: Volume 1 of sbas yul 'bras mo ljongs kyi gnas yig phan yon bcas pa ngo
+        mtshar gter mdzod
       volume_number: 1
       total_pages: 140
+      base_file: v001.txt
 ebook_metadata:
   title: སྦས་ཡུལ་འབྲས་མོ་ལྗོངས་ཀྱི་གནས་ཡིག་ཕན་ཡོན་བཅས་པ་ངོ་མཚར་གཏེར་མཛོད
   author: ''
